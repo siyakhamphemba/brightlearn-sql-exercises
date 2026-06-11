@@ -1,37 +1,43 @@
 # brightlearn-sql-exercises
-SQL practice exercises from the BrightLearn Data Analytics course — SELECT, filtering, aggregates, and operators.
+SQL practice exercises from the BrightLearn Data Analytics course 
 # BrightLearn SQL Exercises
 
-SQL practice exercises completed as part of the BrightLearn Data Analytics course.
+# SQL Portfolio
 
-## Contents
-
-| Exercise | Topic | Questions |
-|---|---|---|
-| Exercise 01 | SELECT & Filtering | 10 queries |
-| Exercise 02 | Aggregate Functions & Operators | 15 queries |
+A collection of SQL practice exercises and reference materials
+covering core SQL concepts and functions.
 
 ## Topics Covered
 
-**Exercise 01 — SQL Fundamentals**
-- SELECT (all columns and specific columns)
-- DISTINCT
-- ORDER BY (ASC and DESC)
-- LIMIT
-- WHERE with AND, OR, NOT, IN
+- SQL Fundamentals
+- Aggregates & Operators
+- JOINs
+- UNION Queries
+- Date Functions
+- NULL Functions
 
-**Exercise 02 — SQL Aggregates & Operators**
-- Aggregate functions: COUNT, SUM, AVG, MIN, MAX
-- GROUP BY and HAVING
-- BETWEEN, IN, NOT
-- Column aliasing with AS
-- ORDER BY and LIMIT with aggregated results
+## Files
 
-## Course
+### SQL Files
+- `date_functions.sql` - Date function queries and examples
+- `joins_queries.sql` - JOIN operations practice  
+- `null_functions.sql` - NULL function handling
+- `union_queries.sql` - UNION query practice
 
-BrightLearn Data Analytics — Basic SQL track  
-Instructor: Rofhiwa Nemukula
+### PDF Reference Materials
+- `sql_fundamentals_reference.pdf` - SQL fundamentals notes
+- `sql_aggregates_operators.pdf` - Aggregates and operators reference
+- `BrightLearn Exercise 1 SQL Fundamentals.pdf` - SQL fundamentals exercises
+- `BrightLearn Exercise 2 SQL Aggregates and Operators.pdf` - Aggregates exercises
+- `BrightLearn_SQL_Date_Functions_Exercise.pdf` - Date functions exercises
+- `BrightLearn_SQL_Joins_Exercise.pdf` - JOIN exercises
+- `BrightLearn_UNION_Exercise.pdf` - UNION exercises
+- `Exercise_5_NULL_Functions.pdf` - NULL functions exercises
 
-## Notes
-
-All exercises were completed by hand (pen and paper) as required by the course format. This repository contains the typed reference versions of the queries and expected output tables.
+## Skills Demonstrated
+- Data filtering and retrieval
+- Aggregate functions
+- Table joins and relationships
+- UNION queries
+- Date manipulation
+- NULL value handling
