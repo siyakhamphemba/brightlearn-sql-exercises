@@ -1,5 +1,9 @@
 -- Databricks notebook source
 
+-- BRIGHTLEARN DATA ANALYTICS
+-- UNION & UNION ALL Exercise
+-- Platform: Databricks SQL
+
 -- Q1. Combine account holders from both branches - unique list.
 
 SELECT account_id, account_holder, 'Sandton' AS city
